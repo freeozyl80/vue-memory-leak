@@ -1,3 +1,7 @@
+### node app.js
+
+
+
 ### Confusing in using Vue Server Render
 
 > In our Project, I create vue object in server side, unfortunately, when i write function in "computed", because of irresistible reason, it cause error and without return.
@@ -8,3 +12,6 @@
 ![normal snapshots](./normal.png)
 
 > i find the object Vue$2 has created again and again although the error has throwed, when i have a lot of request.
+
+
+### this is just example, the true enviorment is the picture above
