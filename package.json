@@ -1,0 +1,24 @@
+{
+  "name": "vue-memory-leak",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freeozyl80/vue-memory-leak.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freeozyl80/vue-memory-leak/issues"
+  },
+  "homepage": "https://github.com/freeozyl80/vue-memory-leak#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "vue": "2.2.3",
+    "vue-server-renderer": "2.2.3"
+  }
+}
